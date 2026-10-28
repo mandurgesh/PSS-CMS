@@ -1,0 +1,6 @@
+{
+  "name": "Parivar Seva Sanstha - Stree Clinic Clinical Management System",
+  "description": "Comprehensive HIPAA-compliant clinical management software for Parivar Seva Sanstha Stree Clinics (Estd. 1978). Features automated unique intake number generation, clinical intake forms (General Gynae, ANC, PNC, Sterilization, Medical Abortion Form C & E, Infertility, Menopause MRS, RTI/STI, Surgeries), real-time dashboards, appointment scheduling, billing, encrypted document storage, automated follow-up reminders, and doctor-patient messaging portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
